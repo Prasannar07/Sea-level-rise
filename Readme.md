@@ -27,9 +27,10 @@ You might need to install the all the libraries before importing it.
 
 ## Feature Importance comparision plot.
 
+
 ![gmsl figure](figs/Feature_imp_comparision.png)
 
-Decision tree visualization plot.
+## Decision tree visualization plot.
 
 ![gmsl figure](figs/tree_comparision.png)
 
