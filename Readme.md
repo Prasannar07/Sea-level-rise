@@ -13,23 +13,23 @@ You might need to install the all the libraries before importing it.
 2. Then run the sea_level_rf file from the repository.
 
 # Expected results
-For Random Forest Regression Model on RCP2.6
+## For Random Forest Regression Model on RCP2.6
 
 1. The MSE on train data is 165.19
 2. The MSE on test data is 980.65
 
 
-For Random Forest Regression Model on RCP8.5
+## For Random Forest Regression Model on RCP8.5
 
 1. The MSE on train data is 188.66
 2. The MSE on test data is 1282.35
 
 
-2. Feature Importance comparison plot.
+## Feature Importance comparison plot.
 
 ![gmsl figure](figs/Feature_imp_comparision.png)
 
-3. Decision tree visualization plot.
+Decision tree visualization plot.
 
 ![gmsl figure](figs/tree_comparision.png)
 
