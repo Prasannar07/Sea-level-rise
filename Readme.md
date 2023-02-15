@@ -25,7 +25,7 @@ You might need to install the all the libraries before importing it.
 2. The MSE on test data is 1282.35
 
 
-## Feature Importance comparison plot.
+## Feature Importance comparision plot.
 
 ![gmsl figure](figs/Feature_imp_comparision.png)
 
